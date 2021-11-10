@@ -1,3 +1,2 @@
-  # Application specific pipeline steps
   - label: ":pencil2: My team's custom steps"
     command: "echo 'My custom steps are executed here'"
