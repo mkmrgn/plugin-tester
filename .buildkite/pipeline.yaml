@@ -1,2 +1,2 @@
-  - label: ":pencil2: My application's custom steps"
+  - label: ":pencil2: My application\'s custom steps"
     command: "echo 'These steps are pulled from the source repo'"
